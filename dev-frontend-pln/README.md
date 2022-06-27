@@ -10,7 +10,7 @@ eBMD Explorer Website Repository
 1. Clone repo
 2. Pergi ke direktori aplikasi
   ```
-  https://gitlab.com/izqfly/ebmd-explorer.git
+  https://github.com/okybagus87/php.git
   ```
 2. Pastikan sudah terinstall composer (download [disini](https://getcomposer.org/)), masukkan command di bawah pada cmd/terminal
   ```
