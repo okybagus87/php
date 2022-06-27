@@ -1,5 +1,5 @@
 # Manajemen Fit & Proper Laravel
-eBMD Explorer Website Repository
+Manajemen Fit & Proper PT PLN PERSERO
 
 ## Fullstack framework
 <img width="40px" align="left" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"/>
